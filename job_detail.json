@@ -1,0 +1,624 @@
+{
+    "_embedded": {
+        "jobs": [
+            {
+                "hashId": "PsyXx9MMb4rZyu6aC0Dg3my-Dk0u0TUg9fAAZJYZOa8=",
+                "hauptberuf": "Aus- und Weiterbildungspädagoge/-pädagogin",
+                "freieBezeichnung": "Praktikant Digitales Lernen m/w/d",
+                "referenznummer": "10000-1184499918-S",
+                "mehrereArbeitsorteVorhanden": false,
+                "arbeitgeber": "Handwerkskammer Koblenz",
+                "arbeitgeberHashId": "CbENVU_TYb7iMXt3ibhEuLfylgP5Irsu57QUiuzhFKo=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-10-01",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "hauptDkz": "77108",
+                "alternativDkzs": [
+                    "59502",
+                    "9612"
+                ],
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "plz": "56068",
+                    "ort": "Koblenz am Rhein",
+                    "strasse": "Friedrich-Ebert-Ring 33",
+                    "region": "Rheinland-Pfalz",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 50.354687,
+                        "lon": 7.594579
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH3bc1Q3FVn%2FbupseSqkY5RXgU6wRvDshinJu4p23QDouQ%3D%3D"
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/PsyXx9MMb4rZyu6aC0Dg3my-Dk0u0TUg9fAAZJYZOa8="
+                    }
+                }
+            },
+            {
+                "hashId": "x_peeZhzPLJbyWmIPlqQ1yNA713WsVdCJa-DNTGq4gw=",
+                "hauptberuf": "Projektassistent/in",
+                "freieBezeichnung": "Übersetzertätigkeit als Praktikum(m/w/d)",
+                "referenznummer": "10000-1185112567-S",
+                "mehrereArbeitsorteVorhanden": true,
+                "arbeitgeber": "KERN AG",
+                "arbeitgeberHashId": "ZTnb1CPF_GbOh-9QPKF7I-zwWccHBvoQ9lNGC97yL7E=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-08-24",
+                "logoHashId": "MCsz0v7CuWnSFNS0bTufWqmZhvb_5S47rVD21wcNus8=",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "hauptDkz": "59017",
+                "alternativDkzs": [
+                    "8302"
+                ],
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "plz": "86150",
+                    "ort": "Augsburg, Bayern",
+                    "strasse": "Schaezlerstr. 17",
+                    "region": "Bayern",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 48.3684883,
+                        "lon": 10.8916025
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH3Qvb55PGGupd9AOn6wO26iGKWmCYQldwY1AZMiqtkXgQ%3D%3D"
+                    },
+                    "arbeitgeberlogo": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/ed/v1/arbeitgeberlogo/MCsz0v7CuWnSFNS0bTufWqmZhvb_5S47rVD21wcNus8="
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/x_peeZhzPLJbyWmIPlqQ1yNA713WsVdCJa-DNTGq4gw="
+                    }
+                }
+            },
+            {
+                "hashId": "o4ht7BuZld_uiSNQ5ksyVpEqdQ__xSlWXIKZMZFo-yw=",
+                "hauptberuf": "Kaufmann/-frau - Spedition und Logistikdienstleistung",
+                "freieBezeichnung": "Praktikantin - Praktikanten",
+                "referenznummer": "10000-1181954250-S",
+                "mehrereArbeitsorteVorhanden": false,
+                "arbeitgeber": "Arteeva & Arteev GbR",
+                "arbeitgeberHashId": "5kkWyh79RMQJRMWUVLGCEy61H1you-FEupSBzE3eivY=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-08-24",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "hauptDkz": "29440",
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "plz": "30167",
+                    "ort": "Hannover",
+                    "strasse": "Weidendamm 30",
+                    "region": "Niedersachsen",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 52.3865523,
+                        "lon": 9.7282572
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH3w%2F%2BDspGJqKv%2BGKLFeLMiAes48A2TEvX1r8jyepXA94A%3D%3D"
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/o4ht7BuZld_uiSNQ5ksyVpEqdQ__xSlWXIKZMZFo-yw="
+                    }
+                }
+            },
+            {
+                "hashId": "bqfBYsSZDRKq-WTNOjbMnmg5aGxQKRitzS7hGDZelnY=",
+                "hauptberuf": "Koch/Köchin",
+                "freieBezeichnung": "Werkstudent Softwareentwicklung (m/w/d) ab 15 Stunden/Woche",
+                "referenznummer": "13884-17286-S",
+                "mehrereArbeitsorteVorhanden": false,
+                "arbeitgeber": "Echobot Media Technologies GmbH",
+                "arbeitgeberHashId": "IyhWNIJnmxHGMJtvchlsGhgxwka9Uov8-ZgCEfxlrpQ=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-08-24",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "externeUrl": "https://jobad.onapply.de/details/17286.html?source=arbeitsagentur",
+                "hauptDkz": "3722",
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "plz": "76135",
+                    "ort": "Karlsruhe, Baden",
+                    "region": "Baden-Württemberg",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 48.9944174,
+                        "lon": 8.3797451
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH2gnZxOaamj2NsHid4FbX7AdJKs0jz0kXdwOciSn3F%2BjQ%3D%3D"
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/bqfBYsSZDRKq-WTNOjbMnmg5aGxQKRitzS7hGDZelnY="
+                    }
+                }
+            },
+            {
+                "hashId": "G9pBLgatHpFMvDzvmXJcLSge5PTkH69lUE76a9d1JOc=",
+                "hauptberuf": "Erzieher/in",
+                "freieBezeichnung": "FOS-Praktikant*in (m/w/d)",
+                "referenznummer": "10000-1185376622-S",
+                "mehrereArbeitsorteVorhanden": false,
+                "arbeitgeber": "Caritas-Verband Arnsberg-Sundern e.V.",
+                "arbeitgeberHashId": "CD5JFag4yKKfKnZfIqgU_jFm4pBpd9hCWpwAenFWjPk=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-08-24",
+                "logoHashId": "4wxhZJSf3uZzcFY_8YRQprA-0_MS_5I10FY5e5KXXJs=",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "hauptDkz": "9159",
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "ort": "Arnsberg, Westfalen",
+                    "region": "Nordrhein-Westfalen",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 51.4145116,
+                        "lon": 8.0103579
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH3O3JDYZSunSd7REtkpxj1%2BpgXGlTkZS4sIKfzLRD%2F0qw%3D%3D"
+                    },
+                    "arbeitgeberlogo": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/ed/v1/arbeitgeberlogo/4wxhZJSf3uZzcFY_8YRQprA-0_MS_5I10FY5e5KXXJs="
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/G9pBLgatHpFMvDzvmXJcLSge5PTkH69lUE76a9d1JOc="
+                    }
+                }
+            },
+            {
+                "hashId": "DN1xXF8N_IYpVM1cYZhTGZRV8DwyyCO4tUJQAMQZ4LM=",
+                "hauptberuf": "Assistent/in - Beschaffungswesen",
+                "freieBezeichnung": "Werkstudent (m/w/d) Beschaffungsmanagement",
+                "referenznummer": "13643-1L_278924-S",
+                "mehrereArbeitsorteVorhanden": false,
+                "arbeitgeber": "Academic Work Germany GmbH",
+                "arbeitgeberHashId": "VYlDrbwOHhAy992ZW9S1sMLJ5kILlDoobPi8TtHpIks=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-08-24",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "externeUrl": "https://academicwork.hvnj.de/stellenangebot/werkstudent-mwd-beschaffungsmanagement/278924.html?utm_source=hvnjba&_medium=organic",
+                "hauptDkz": "90753",
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "ort": "Lüneburg",
+                    "region": "Niedersachsen",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 53.2424585,
+                        "lon": 10.4128282
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH2d2W%2Bn%2FG00mMZO1YJ48HuZoLQCSguPDJU8UbzSuBhVUg%3D%3D"
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/DN1xXF8N_IYpVM1cYZhTGZRV8DwyyCO4tUJQAMQZ4LM="
+                    }
+                }
+            },
+            {
+                "hashId": "345UXn7KpNZe5Ifa-2akdiGuuVBuv1MDOUKx4mBf1is=",
+                "hauptberuf": "Fachkaufmann/-frau - Vertrieb",
+                "freieBezeichnung": "Werkstudent (m/w/d) Sales",
+                "referenznummer": "13643-5L_273927-S",
+                "mehrereArbeitsorteVorhanden": false,
+                "arbeitgeber": "Academic Work Germany GmbH",
+                "arbeitgeberHashId": "KP0Swcci7NH9oQ51mnxkN23lKg79ievnfvDppHtpvZM=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-08-24",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "externeUrl": "https://academicwork.hvnj.de/stellenangebot/werkstudent-mwd-sales/273927.html?utm_source=hvnjba&_medium=organic",
+                "hauptDkz": "6524",
+                "alternativDkzs": [
+                    "15081",
+                    "6730"
+                ],
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "ort": "Berlin",
+                    "region": "Berlin",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 52.4926832,
+                        "lon": 13.4025753
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH2d2W%2Bn%2FG00mMZO1YJ48HuZYTpKj4oCXxDQ48%2F8KCHokg%3D%3D"
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/345UXn7KpNZe5Ifa-2akdiGuuVBuv1MDOUKx4mBf1is="
+                    }
+                }
+            },
+            {
+                "hashId": "lPumnwSUVoj2Zg4wEPqQK1l7qcOD17AVVABHw-cGWhw=",
+                "hauptberuf": "Betriebswirt/in (Hochschule)",
+                "freieBezeichnung": "Werkstudent (m/w/d) Backoffice",
+                "referenznummer": "13643-2L_277199-S",
+                "mehrereArbeitsorteVorhanden": false,
+                "arbeitgeber": "Academic Work Germany GmbH",
+                "arbeitgeberHashId": "jdIEOHVaT-MQClzJEZ4APWxmyejftQqWCtr0xg5GZTk=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-08-24",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "externeUrl": "https://academicwork.hvnj.de/stellenangebot/werkstudent-mwd-backoffice/277199.html?utm_source=hvnjba&_medium=organic",
+                "hauptDkz": "59183",
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "ort": "Hamburg",
+                    "region": "Hamburg",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 53.5460482,
+                        "lon": 10.0393138
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH2d2W%2Bn%2FG00mMZO1YJ48HuZQsqORncNVCdB%2B6aOijly6A%3D%3D"
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/lPumnwSUVoj2Zg4wEPqQK1l7qcOD17AVVABHw-cGWhw="
+                    }
+                }
+            },
+            {
+                "hashId": "gCUBbvR9zorV98e2gf2HdKldC8-1BVX9l0Ujjx18XAM=",
+                "hauptberuf": "Qualitätsmanager/in",
+                "freieBezeichnung": "Werkstudent (m/w/d) Qualitätsmanagement",
+                "referenznummer": "13643-2L_277612-S",
+                "mehrereArbeitsorteVorhanden": false,
+                "arbeitgeber": "Academic Work Germany GmbH",
+                "arbeitgeberHashId": "XJC7U-qI5LHeK8zIOTjFSjWU8yc_2sBlrIOTMPtxtDE=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-08-24",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "externeUrl": "https://academicwork.hvnj.de/stellenangebot/werkstudent-mwd-qualittsmanagement/277612.html?utm_source=hvnjba&_medium=organic",
+                "hauptDkz": "100531",
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "ort": "Berlin",
+                    "region": "Berlin",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 52.4926832,
+                        "lon": 13.4025753
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH2d2W%2Bn%2FG00mMZO1YJ48HuZGkKHPKFpyTA%2F9Jxues%2BO5Q%3D%3D"
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/gCUBbvR9zorV98e2gf2HdKldC8-1BVX9l0Ujjx18XAM="
+                    }
+                }
+            },
+            {
+                "hashId": "uCr5MSkplfcEz6nNIm_HlYeVmR0gA3NZ5yxcY3Dv1DI=",
+                "hauptberuf": "Kfm. Ass./Wirtschaftsassistent/in - Betriebsinformatik",
+                "freieBezeichnung": "Werkstudent (m/w/d) Berichtswesen",
+                "referenznummer": "13643-2L_277613-S",
+                "mehrereArbeitsorteVorhanden": false,
+                "arbeitgeber": "Academic Work Germany GmbH",
+                "arbeitgeberHashId": "C9gL7O_VUt7YI1pR5TAOEMV6WeMCbxSSQ3vPMEfTv74=",
+                "aktuelleVeroeffentlichungsdatum": "2021-08-24",
+                "eintrittsdatum": "2021-08-24",
+                "angebotsart": "PRAKTIKUM_TRAINEE",
+                "externeUrl": "https://academicwork.hvnj.de/stellenangebot/werkstudent-mwd-berichtswesen/277613.html?utm_source=hvnjba&_medium=organic",
+                "hauptDkz": "14516",
+                "angebotsartGruppe": "PRAKTIKUM_TRAINEE",
+                "anzeigeAnonym": false,
+                "arbeitsort": {
+                    "ort": "Berlin",
+                    "region": "Berlin",
+                    "land": "Deutschland",
+                    "koordinaten": {
+                        "lat": 52.4926832,
+                        "lon": 13.4025753
+                    }
+                },
+                "_links": {
+                    "details": {
+                        "href": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangebotAnzeigen.html?bencs=wIh67z1z2zBqANhuKVYJZPnyp64OOQwDF%2Fo868KbaH2d2W%2Bn%2FG00mMZO1YJ48HuZnN0e2DUtzLc5D8Oi%2BtzNHQ%3D%3D"
+                    },
+                    "jobdetails": {
+                        "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v1/jobdetails/uCr5MSkplfcEz6nNIm_HlYeVmR0gA3NZ5yxcY3Dv1DI="
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "first": {
+            "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v2/app/jobs?aktualitaet=100&FCT.ANGEBOTSART=PRAKTIKUM_TRAINEE&FCT.BEHINDERUNG=AUS&page=0&size=10"
+        },
+        "self": {
+            "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v2/app/jobs?aktualitaet=100&FCT.ANGEBOTSART=PRAKTIKUM_TRAINEE&FCT.BEHINDERUNG=AUS&sort=RELEVANZ,desc"
+        },
+        "next": {
+            "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v2/app/jobs?aktualitaet=100&FCT.ANGEBOTSART=PRAKTIKUM_TRAINEE&FCT.BEHINDERUNG=AUS&page=1&size=10"
+        },
+        "last": {
+            "href": "https://api-con.arbeitsagentur.de/prod/jobboerse/jobsuche-service/pc/v2/app/jobs?aktualitaet=100&FCT.ANGEBOTSART=PRAKTIKUM_TRAINEE&FCT.BEHINDERUNG=AUS&page=1115&size=10"
+        }
+    },
+    "page": {
+        "size": 10,
+        "totalElements": 11160,
+        "totalPages": 1116,
+        "number": 0
+    },
+    "facetten": [
+        {
+            "id": "FCT.ANGEBOTSART",
+            "typ": "SINGLE",
+            "auswahl": [
+                {
+                    "trefferAnzahl": 932486,
+                    "preset": true,
+                    "name": "ARBEIT"
+                },
+                {
+                    "trefferAnzahl": 185247,
+                    "preset": false,
+                    "name": "AUSBILDUNG"
+                },
+                {
+                    "trefferAnzahl": 11160,
+                    "preset": false,
+                    "name": "PRAKTIKUM_TRAINEE"
+                },
+                {
+                    "trefferAnzahl": 2548,
+                    "preset": false,
+                    "name": "SELBSTAENDIGKEIT"
+                }
+            ]
+        },
+        {
+            "id": "FCT.AKTION",
+            "typ": "SWITCH",
+            "auswahl": [
+                {
+                    "trefferAnzahl": 0,
+                    "preset": false,
+                    "name": "AN"
+                }
+            ]
+        },
+        {
+            "id": "FCT.ARBEITSVERMITTLUNG",
+            "typ": "EXCLUDE",
+            "auswahl": [
+                {
+                    "trefferAnzahl": 0,
+                    "preset": false,
+                    "name": "MIT_AV"
+                }
+            ]
+        },
+        {
+            "id": "FCT.BEFRISTUNG",
+            "typ": "MULTI",
+            "auswahl": [
+                {
+                    "trefferAnzahl": 5170,
+                    "preset": false,
+                    "name": "UNBEFRISTET"
+                },
+                {
+                    "trefferAnzahl": 950,
+                    "preset": false,
+                    "name": "BEFRISTET"
+                },
+                {
+                    "trefferAnzahl": 5040,
+                    "preset": false,
+                    "name": "KEINE_ANGABE"
+                }
+            ]
+        },
+        {
+            "id": "FCT.ARBEITSZEITMODELL",
+            "typ": "MULTI",
+            "auswahl": [
+                {
+                    "trefferAnzahl": 7381,
+                    "preset": false,
+                    "name": "VOLLZEIT"
+                },
+                {
+                    "trefferAnzahl": 1850,
+                    "preset": false,
+                    "name": "TEILZEIT"
+                },
+                {
+                    "trefferAnzahl": 56,
+                    "preset": false,
+                    "name": "SCHICHT_NACHTARBEIT_WOCHENENDE"
+                },
+                {
+                    "trefferAnzahl": 56,
+                    "preset": false,
+                    "name": "HEIM_TELEARBEIT"
+                },
+                {
+                    "trefferAnzahl": 0,
+                    "preset": false,
+                    "name": "MINIJOB"
+                }
+            ]
+        },
+        {
+            "id": "FCT.ZEITARBEIT",
+            "typ": "EXCLUDE",
+            "auswahl": [
+                {
+                    "trefferAnzahl": 0,
+                    "preset": false,
+                    "name": "OHNE_ZA"
+                }
+            ]
+        },
+        {
+            "id": "FCT.BEHINDERUNG",
+            "typ": "SWITCH",
+            "auswahl": [
+                {
+                    "trefferAnzahl": 0,
+                    "preset": false,
+                    "name": "AN"
+                },
+                {
+                    "trefferAnzahl": 0,
+                    "preset": true,
+                    "name": "AUS"
+                }
+            ]
+        }
+    ],
+    "aggregierungen": {
+        "bundesland": {
+            "Baden-Württemberg": 2143,
+            "Bayern": 2222,
+            "Berlin": 968,
+            "Brandenburg": 148,
+            "Bremen": 81,
+            "Hamburg": 589,
+            "Hessen": 1136,
+            "Mecklenburg-Vorpommern": 60,
+            "Niedersachsen": 645,
+            "Nordrhein-Westfalen": 1980,
+            "Rheinland-Pfalz": 379,
+            "Saarland": 77,
+            "Sachsen": 353,
+            "Sachsen-Anhalt": 389,
+            "Schleswig-Holstein": 134,
+            "Thüringen": 133
+        },
+        "plzebene2": {
+            "01": 147,
+            "02": 12,
+            "03": 11,
+            "04": 161,
+            "06": 154,
+            "07": 37,
+            "08": 24,
+            "09": 37,
+            "10": 696,
+            "12": 96,
+            "13": 103,
+            "14": 98,
+            "15": 27,
+            "16": 17,
+            "17": 19,
+            "18": 26,
+            "19": 19,
+            "20": 342,
+            "21": 27,
+            "22": 224,
+            "23": 23,
+            "24": 68,
+            "25": 17,
+            "26": 53,
+            "27": 31,
+            "28": 79,
+            "29": 15,
+            "30": 180,
+            "31": 74,
+            "32": 104,
+            "33": 134,
+            "34": 63,
+            "35": 68,
+            "36": 26,
+            "37": 33,
+            "38": 350,
+            "39": 50,
+            "40": 397,
+            "41": 33,
+            "42": 57,
+            "44": 145,
+            "45": 137,
+            "46": 25,
+            "47": 72,
+            "48": 89,
+            "49": 61,
+            "50": 345,
+            "51": 145,
+            "52": 112,
+            "53": 73,
+            "54": 28,
+            "55": 75,
+            "56": 63,
+            "57": 27,
+            "58": 52,
+            "59": 70,
+            "60": 607,
+            "61": 28,
+            "63": 99,
+            "64": 97,
+            "65": 148,
+            "66": 86,
+            "67": 153,
+            "68": 91,
+            "69": 98,
+            "70": 495,
+            "71": 169,
+            "72": 126,
+            "73": 133,
+            "74": 195,
+            "75": 46,
+            "76": 286,
+            "77": 53,
+            "78": 71,
+            "79": 95,
+            "80": 503,
+            "81": 152,
+            "82": 106,
+            "83": 40,
+            "84": 25,
+            "85": 383,
+            "86": 125,
+            "87": 55,
+            "88": 273,
+            "89": 121,
+            "90": 192,
+            "91": 164,
+            "92": 55,
+            "93": 111,
+            "94": 45,
+            "95": 39,
+            "96": 40,
+            "97": 124,
+            "98": 12,
+            "99": 64
+        }
+    }
+}
